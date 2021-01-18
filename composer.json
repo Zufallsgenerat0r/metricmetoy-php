@@ -1,0 +1,9 @@
+{
+    "name": "kilian/metricmetoy-php",
+    "description": "This is a demo project usable as a client lib to write metrics",
+    "type": "library",
+    "require": {
+        "php": "^7.4"
+    },
+    "license": "MIT"
+}
