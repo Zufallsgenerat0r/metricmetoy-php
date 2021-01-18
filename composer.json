@@ -3,7 +3,7 @@
     "description": "This is a demo project usable as a client lib to write metrics",
     "type": "library",
     "require": {
-        "php": "^7.4"
+        "php": "^7.4 || ^8.0"
     },
     "license": "MIT",
     "require-dev": {
