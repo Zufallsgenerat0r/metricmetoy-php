@@ -11,7 +11,12 @@
     },
     "autoload": {
         "psr-4": {
-            "MetricMetoy\\Statsd\\": "src/"
+            "MetricMetoy\\Logger\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MetricMetoy\\Test\\Logger\\": "tests/unit"
         }
     },
     "scripts": {
