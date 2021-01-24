@@ -12,7 +12,7 @@ for functionality is a project done at an former employer.
 To install run the folling command using `composer`:
 
 ```bash
-composer require "Zufallsgenerat0r/metricmetoy-php"
+composer require kilian/metricmetoy-php
 ```
 
 ## Usage
