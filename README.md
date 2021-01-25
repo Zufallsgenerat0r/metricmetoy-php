@@ -9,7 +9,7 @@ for functionality is a project done at an former employer.
 
 ## Installation
 
-To install run the folling command using `composer`:
+To install run the following command using `composer`:
 
 ```bash composer require kilian/metricmetoy-php ```
 
