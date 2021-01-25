@@ -20,6 +20,8 @@
         }
     },
     "scripts": {
-        "test": "vendor/bin/phpunit"
+        "test": "vendor/bin/phpunit",
+        "test-unit": "vendor/bin/phpunit --testsuite Unit",
+        "test-int": "vendor/bin/phpunit --testsuite Integration"
     }
 }
