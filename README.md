@@ -11,7 +11,9 @@ for functionality is a project done at an former employer.
 
 To install run the following command using `composer`:
 
-```bash composer require kilian/metricmetoy-php ```
+```bash 
+composer require kilian/metricmetoy-php 
+```
 
 ## Usage
 
@@ -34,5 +36,5 @@ $statsd->decrement("doomsday");
 $statsd->count("linesOfCode", 9000); 
 ```
 
-For conncetions using file desriptors please close the connection after usage.
+For connctions using file desriptors please close the connection after usage.
 
